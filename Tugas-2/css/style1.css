@@ -1,3 +1,32 @@
 body {
     background-image: url("./pattern.jpg");
 }
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+    background: white;
+}
+
+.menu:link {
+    background: blue;
+}
+
+.menu:visited {
+    background: yellowgreen;
+}
+
+menu:hover {
+    background: rgb(35, 83, 240);
+}
+
+p {
+    text-align: justify;
+}
