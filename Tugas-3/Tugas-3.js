@@ -3,8 +3,7 @@ var a = "saya";
 var b = " senang";
 var c = " belajar";
 var d = " javascript";
-nama = a + b + c + d.toUpperCase()
-console.log(nama);
+console.log(a + b.replace("senang", "Senang") + c + d.toUpperCase());
 
 
 // Soal 2
