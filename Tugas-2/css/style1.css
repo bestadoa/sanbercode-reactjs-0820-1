@@ -23,8 +23,8 @@ nav {
     background: yellowgreen;
 }
 
-menu:hover {
-    background: rgb(35, 83, 240);
+.menu:hover {
+    background: rgb(224, 225, 230);
 }
 
 p {
