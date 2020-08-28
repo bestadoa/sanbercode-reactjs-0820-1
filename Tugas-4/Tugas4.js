@@ -36,7 +36,7 @@ for (var i = 0; i < 7; i++) {
     var output = ""
     for (var j = 0; j < 7; j++) {
         if (j <= i) {
-            output += "*"
+            output += "#"
         } else {
             output += " "
         }
